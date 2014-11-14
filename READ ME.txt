@@ -1,0 +1,4 @@
+This is the full code for the project URL Shortener.
+The exe file can be found in ~/bin/debug/URLShortener.exe
+
+This program is created for Windows machines.
